@@ -1,0 +1,3 @@
+dataset,subject,train_sessions,test_sessions,model,n_train,n_test,n_voxels,pca_components,top1_accuracy,top5_accuracy,random_seed
+NSD,subj01,1-3,4,RidgeClassifier,1670,560,15724,1000,0.4589285714285714,0.8232142857142857,42
+NSD,subj01,1-3,4,LogisticRegression,1670,560,15724,1000,0.4642857142857143,0.85,42
